@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20774" started-at="2020-07-10T16:06:51Z" finished-at="2020-07-10T16:07:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20774" started-at="2020-07-10T16:06:51Z" finished-at="2020-07-10T16:07:12Z">
+      <class name="com.ozow.qa.test.CalculatorTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="setUP" is-config="true" duration-ms="10494" started-at="2020-07-10T16:06:51Z" finished-at="2020-07-10T16:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="operationsTest()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="operationsTest" duration-ms="41" started-at="2020-07-10T16:07:02Z" finished-at="2020-07-10T16:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operationsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="tearDown" is-config="true" duration-ms="346" started-at="2020-07-10T16:07:02Z" finished-at="2020-07-10T16:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="setUP" is-config="true" duration-ms="9646" started-at="2020-07-10T16:07:02Z" finished-at="2020-07-10T16:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="tearDown" is-config="true" duration-ms="222" started-at="2020-07-10T16:07:12Z" finished-at="2020-07-10T16:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:com.ozow.qa.test.CalculatorTest@42dafa95]" name="titleTest" duration-ms="0" started-at="2020-07-10T16:07:12Z" finished-at="2020-07-10T16:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+      </class> <!-- com.ozow.qa.test.CalculatorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

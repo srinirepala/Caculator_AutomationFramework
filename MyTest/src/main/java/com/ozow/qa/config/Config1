@@ -1,0 +1,8 @@
+url= http://test.i-pay.co.za/qa/calculator.html
+
+browser= chrome
+Browser= Firefox
+
+Value1=4
+Value2=2
+operation=A
